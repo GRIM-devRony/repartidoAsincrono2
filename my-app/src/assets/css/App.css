@@ -1,0 +1,57 @@
+
+
+button{
+
+  margin: 10px;
+  
+}
+
+span{
+
+  font-size: 25px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+p{
+
+  font-size: 25px;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.contenedorCarta {
+  width: 400px;
+  height: 400px;
+  border: solid 1px;
+  border-radius: 8%;
+  overflow: hidden;
+  transition: .3s;
+  margin: auto;
+  padding: 10px;
+
+}
+.contenedorCarta:hover {
+background-color: black;
+color: white;
+ 
+}
+
+.contenedorCarta img {
+  width: 400px;
+  height: 230px;
+  border-radius: 8%;
+  
+}
+
+
+.contenedorCarta p {
+  font-size: 18px;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+body{
+  text-align: center;
+  padding: 20px;
+}
